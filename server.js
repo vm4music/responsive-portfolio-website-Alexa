@@ -7,11 +7,11 @@ app.set('view engine', 'ejs')
 // const userRoute = require('./routers/userRoute')
 
 app.get('/', (req, res) => {
-    console.log('Here');
     res.render('index')
 })
 
 app.use('/assets', express.static(__dirname + '/assets'));
+
 // app.use('/users', userRoute)
 
 app.listen(3000)
