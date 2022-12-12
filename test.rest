@@ -1,0 +1,6 @@
+GET https://spotify23.p.rapidapi.com/search/?q=sharry%20mann&type=multi&offset=0&limit=10&numberOfTopResults=5
+X-RapidAPI-Key: b2d3063cb2mshc5142ae6e40aebap17959bjsn86247bd43128
+X-RapidAPI-Host: spotify23.p.rapidapi.com
+Host: spotify23.p.rapidapi.com
+
+
